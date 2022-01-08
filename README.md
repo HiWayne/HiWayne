@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+I'm a front-end engineer, like JavaScript, design pattern and front-end frameworks.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiWayne)](https://github.com/anuraghazra/github-readme-stats)
+
+You can also read my articles in [zhihu(知乎)](https://www.zhihu.com/people/yu-guo-tian-qing-60-94), [juejin(掘金)](https://juejin.cn/user/1838039174490685) 
+
+<br />
+
+- 🌱 I’m currently learning frameworks principle、browser principle and some cutting-edge or interesting knowledge about front-end.
+- 💬 Ask me about JavaScript、react、vue……
+- 📫 How to reach me: yangzhoulty2008@outlook.com
+- ⚡ Fun fact: The bottom layer of the universe is the goal of physics.
+
 <!--
 **HiWayne/HiWayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
