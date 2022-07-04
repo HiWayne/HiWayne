@@ -9,7 +9,7 @@ You can also read my articles in [zhihu(知乎)](https://www.zhihu.com/people/yu
 <br />
 
 - 🌱 I’m currently learning frameworks principle、browser principle and some cutting-edge or interesting knowledge about front-end.
-- 💬 Ask me about JavaScript、react、vue、html、css……
+- 💬 Ask me about Javascript/Typescript、React、Vue、HTML、CSS……
 - 📫 How to reach me: yangzhoulty2008@outlook.com
 - ⚡ Fun fact: The bottom layer of the universe is the goal of physics.
 
