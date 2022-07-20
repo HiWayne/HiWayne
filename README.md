@@ -2,7 +2,7 @@
 
 I'm a front-end engineer, like JavaScript, design pattern and front-end frameworks.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiWayne&theme=vue-dark&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiWayne&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 You can also read my articles in [zhihu(知乎)](https://www.zhihu.com/people/yu-guo-tian-qing-60-94/posts), [juejin(掘金)](https://juejin.cn/user/1838039174490685) 
 
