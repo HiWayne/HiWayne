@@ -2,7 +2,7 @@
 
 I'm a front-end engineer, like JavaScript, NodeJS, React and Vue.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiWayne&count_private=true&theme=vue-dark&bg_color=#e86444,#904e95)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiWayne&count_private=true&bg_color=#e86444,#904e95)](https://github.com/anuraghazra/github-readme-stats)
 
 You can also read my articles in [zhihu(知乎)](https://www.zhihu.com/people/yu-guo-tian-qing-60-94/posts), [juejin(掘金)](https://juejin.cn/user/1838039174490685) 
 
