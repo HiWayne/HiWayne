@@ -1,6 +1,6 @@
 ### Hi 🥳
 
-I'm a front-end engineer, like JavaScript, NodeJS, React and Vue.
+I'm a front-end engineer, like JavaScript, NodeJS, React, Vue and maybe Rust.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiWayne&count_private=true&include_all_commits=true&title_color=#fff&text_color=#fff&bg_color=#e86444,#904e95)](https://github.com/anuraghazra/github-readme-stats)
 
